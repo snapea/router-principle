@@ -1,7 +1,7 @@
 
 # router原理简单封装
 
-> 注: demo为react-router-dom 使用 source为封装代码，核心代码在src/router
+> 注: 1.demo为react-router-dom 2.使用 source为封装代码，核心代码在src/router
 
 我们只关心两件事：
 
